@@ -1,6 +1,6 @@
 ## Sentencepiece Tokenizer Wrapper for PLDR-LLM with KV-cache and G-cache
 
-This repository implements a wrapper code for generating a Sentencepiece Vocabulary and Tokenizer model from RefinedWeb dataset using pytorch/torchtune framework. The tokenizers generated with this wrapper script are used in the research article: *PLDR-LLMs Learn A Generalizable Tensor Operator That Can Replace Its Own Deep Neural Net At Inference*.
+This repository implements a wrapper code for generating a Sentencepiece Vocabulary and Tokenizer model from RefinedWeb dataset using pytorch/torchtune framework. The tokenizers generated with this wrapper script are used in the research article: [PLDR-LLMs Learn A Generalizable Tensor Operator That Can Replace Its Own Deep Neural Net At Inference](https://arxiv.org/abs/2502.13502).
 
 More information on Sentencepiece tokenizer can be found in articles:
 - [SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing](https://arxiv.org/abs/1808.06226) 
